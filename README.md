@@ -89,7 +89,9 @@
 
 ## 🎵 Currently Listening To
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=bb4mgwf4zzeglp0pc0jxw4kbl&cover_image=true&theme=radical&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bb4mgwf4zzeglp0pc0jxw4kbl&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=bb4mgwf4zzeglp0pc0jxw4kbl&redirect=true)
+
 </div>
 
 ## 💭 Random Dev Quote
