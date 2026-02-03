@@ -61,17 +61,7 @@
 
 
 
-## 🎵 Currently Listening To
-<div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bb4mgwf4zzeglp0pc0jxw4kbl&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=bb4mgwf4zzeglp0pc0jxw4kbl&redirect=true)
 
-</div>
-
-## 💭 Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
 
 ## 🤝 Connect With Me
 
